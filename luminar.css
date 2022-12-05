@@ -1,0 +1,21 @@
+img{
+    width: 115%;
+}
+.nav-link{
+    color: black;
+
+}
+.nav-link:hover{
+    text-decoration: underline  rgb(80, 20, 177);
+    color:rgb(80, 20, 177) ;
+    
+
+}
+.active{
+    color: blueviolet;
+    text-decoration: underline rgb(82, 8, 116);
+}
+#s1{
+    color: blueviolet;
+}
+
